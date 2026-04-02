@@ -103,7 +103,7 @@ Also includes **Statistics:**
 ### Using PHP's Built-in Server:
 
 ```bash
-cd /home/khammadi/php-ex
+cd /home/khammadi/php-ex  ,(use your directory path)
 php -S localhost:8000
 ```
 
